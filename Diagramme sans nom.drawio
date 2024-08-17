@@ -18,6 +18,22 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-3" value="Protection de la vie privée" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-4" value="Circulation des données" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-6" value="RGPD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=4;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
+  <diagram name="Page-1" id="dCJ2klqYW2XMoEyI3Qbc">
+    <mxGraphModel dx="927" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="120" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-3" value="Protection de la vie privée" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="100" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-4" value="Circulation des données" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="650" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-6" value="RGPD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="130" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=4;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=1;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="354.5" as="sourcePoint" />
+            <mxPoint x="660" y="356" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-12" value="Standard à respecter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="F_0H_4BJYs4ZDbMHEmpx-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.5433" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-9" value="Règlement&amp;nbsp;&lt;br&gt;IA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="470" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-10" value="Règlement&amp;nbsp;&lt;br&gt;Gouvernance &lt;br&gt;Données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="350" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-11" value="Règlement &lt;br&gt;Données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-14" value="&lt;b&gt;Focus croissant sur les perspectives économiques&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;gradientColor=#04b95b;gradientDirection=east;fillColor=#FC0606;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="120" y="430" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-15" value="2023" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-16" value="2024" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-17" value="2025" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="595" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_0H_4BJYs4ZDbMHEmpx-18" value="2018" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="def1cqr2604WuTvFDHGX-1" value="" style="endArrow=classic;html=1;rounded=1;strokeWidth=4;strokeColor=default;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="470" as="sourcePoint" />
+            <mxPoint x="635" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G0EaCPPpJOuzXoJxMoBv" name="Diagramme gouvernance données">
+    <mxGraphModel dx="927" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

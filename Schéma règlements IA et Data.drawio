@@ -140,13 +140,34 @@
           <mxGeometry x="240" y="120" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sv78Ostvc2UKgcvQb4hG-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Organisation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="357" y="235" width="120" height="120" as="geometry" />
+          <mxGeometry x="339" y="190" width="156" height="156" as="geometry" />
         </mxCell>
         <mxCell id="sv78Ostvc2UKgcvQb4hG-4" value="Ressources&lt;br&gt;naturelles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sv78Ostvc2UKgcvQb4hG-5" value="Coût &lt;br&gt;environnemental" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-6" value="Droit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-7" value="Ethique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="279" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-8" value="Population" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-9" value="Acteurs économiques" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="434" y="360" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-10" value="Clients ou Usagers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="339" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-11" value="Salariés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="348" y="240" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv78Ostvc2UKgcvQb4hG-12" value="Managers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="62" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

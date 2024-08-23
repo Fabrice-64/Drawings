@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="4">
   <diagram name="Page-1" id="dCJ2klqYW2XMoEyI3Qbc">
     <mxGraphModel dx="927" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,59 @@
         </mxCell>
         <mxCell id="sv78Ostvc2UKgcvQb4hG-17" value="Confiance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="288" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vz3K7QWNu4kTHB_jy_fh" name="Domaines application IA">
+    <mxGraphModel dx="954" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="utGU7WsL1sNSvfVIguE1-1" value="Transformation numérique" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=NaN;lucidId=GeZ1~iOOBvOv;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-90" width="495" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-2" value="Adoption de l&#39;IA" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=NaN;lucidId=efZ1aRq0jOm3;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-90" width="497" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-3" value="Alignement stratégique" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=QgZ1H7zCYw8s;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-29" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-4" value="Culture managériale favorable" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=FhZ1bvYtrMh6;" vertex="1" parent="1">
+          <mxGeometry x="105" y="60" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-5" value="Culture de l&#39;innovation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=WhZ1qj-2Z0LA;" vertex="1" parent="1">
+          <mxGeometry x="105" y="105" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-7" value="Droit" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=xlZ1jsK0TJGj;" vertex="1" parent="1">
+          <mxGeometry x="405" y="195" width="692" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-8" value="Ethique" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=OlZ1rERlCdLB;" vertex="1" parent="1">
+          <mxGeometry x="405" y="240" width="692" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-9" value="Algorithmes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=8lZ1wPkd5_tJ;" vertex="1" parent="1">
+          <mxGeometry x="600" y="285" width="497" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-10" value="Biais" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=wmZ1QqHE9c22;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="497" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-11" value="Confiance" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=JmZ1Kxj7E5ln;" vertex="1" parent="1">
+          <mxGeometry x="600" y="375" width="497" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-12" value="Cadre socio-culturel" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=XnZ1D8L6_qVN;" vertex="1" parent="1">
+          <mxGeometry x="105" y="420" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-13" value="Infrastructure" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=Ye61nmV~Q1g1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="16" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-14" value="Ressources humaines" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=Df61MEt72jJT;" vertex="1" parent="1">
+          <mxGeometry x="105" y="150" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-15" value="Attentes des clients ou usagers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;align=center;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=1;lucidId=Aog2CWUA58L3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="465" width="992" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="utGU7WsL1sNSvfVIguE1-6" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:26.7px;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:26.7px;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:26.7px;&quot;&gt;Valorisation des données&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#000000;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FFFFFF;strokeWidth=1;lucidId=OjZ1ozeS8Ci7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="195" width="495" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

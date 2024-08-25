@@ -75,20 +75,23 @@
         <mxCell id="QLinlRIOrYTf9TcWys8q-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#009900;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="305" width="30" height="20" as="geometry" />
+        <mxCell id="QLinlRIOrYTf9TcWys8q-30" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#009900;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="730" y="235" width="30" height="20" as="geometry" />
+        <mxCell id="QLinlRIOrYTf9TcWys8q-31" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#009900;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="630" y="305" width="30" height="20" as="geometry" />
+        <mxCell id="QLinlRIOrYTf9TcWys8q-32" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#009900;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="730" y="305" width="30" height="20" as="geometry" />
+        <mxCell id="QLinlRIOrYTf9TcWys8q-33" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#009900;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="315" width="30" height="20" as="geometry" />
+        <mxCell id="QLinlRIOrYTf9TcWys8q-34" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLinlRIOrYTf9TcWys8q-35" value="Objet de l&#39;étude" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -90,7 +90,7 @@
         <mxCell id="QLinlRIOrYTf9TcWys8q-34" value="Non étudié" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="470" y="390" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLinlRIOrYTf9TcWys8q-35" value="Objet de l&#39;étude" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QLinlRIOrYTf9TcWys8q-35" value="Objet de la recherche" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="330" height="30" as="geometry" />
         </mxCell>
       </root>

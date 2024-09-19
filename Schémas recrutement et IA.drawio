@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="4">
   <diagram name="Schéma recrutement" id="yyfjAwbgxp0O6cG3YgLU">
     <mxGraphModel dx="954" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,11 +137,35 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J4A9ynQh-gscLU9ENh8C" name="Page-4">
+  <diagram id="J4A9ynQh-gscLU9ENh8C" name="Schéma Canaux et Cibles de recrutement">
     <mxGraphModel dx="949" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zRy2SvqT83hInypFj3Wf-7" value="Ouvriers et salariés peu qualifiés" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-8" value="Professions intermédiaires" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-9" value="Cadres supérieurs et dirigeants" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-10" value="Agences d&#39;intérim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-11" value="Cabinets de recrutement généralistes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-12" value="Chasseurs de têtes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-13" value="Sites des RH des organisations (recrutement interne)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zRy2SvqT83hInypFj3Wf-14" value="Sites Web (réseaux sociaux, plateformes d&#39;annonces)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="640" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

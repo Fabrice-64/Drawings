@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="5">
   <diagram name="Schéma recrutement" id="yyfjAwbgxp0O6cG3YgLU">
     <mxGraphModel dx="954" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,68 @@
         </mxCell>
         <mxCell id="zRy2SvqT83hInypFj3Wf-14" value="Sites Web (réseaux sociaux, plateformes d&#39;annonces)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="640" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y7nflHqlEbAwfCqMZCiu" name="Numérisation du recrutement">
+    <mxGraphModel dx="855" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-1" value="Recrutement 1.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-2" value="Recrutement 2.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-3" value="Recrutement 0.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-4" value="Recrutement 3.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-5" value="Petites annonces" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-6" value="Job boards" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-7" value="multidiffuseurs&lt;div&gt;agrégateurs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-8" value="Intelligence artificielle pour la sélection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-9" value="Nombre de candidatures via le numérique" style="shape=manualInput;whiteSpace=wrap;html=1;size=90;align=right;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="640" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-10" value="Post and Pray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-12" value="Sourcing actif" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-13" value="Avant 1990" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-14" value="1990 - 2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-15" value="2000 - 2010" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-16" value="Depuis 2010" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-17" value="Cooptation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-18" value="Candidatures spontanées" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyfHA382Y2KyS8RbUCv-19" value="Chasse de tête" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="640" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

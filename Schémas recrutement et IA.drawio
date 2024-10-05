@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="11">
   <diagram name="Schéma recrutement" id="yyfjAwbgxp0O6cG3YgLU">
     <mxGraphModel dx="954" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,6 +391,59 @@
         </mxCell>
         <mxCell id="tIb_OCKXRaECO-80yYk3-4" value="Exemple d&#39;offre d&#39;emploi au format RDF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="830" width="340" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_g-cPCjy5PYWoe_y7-T1" name="continuité des données - Recrutement">
+    <mxGraphModel dx="1226" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kF871Q7qPDANlRMQNu3J-10" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;fillColor=#9999FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="280" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="320" as="sourcePoint" />
+            <mxPoint x="50" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-3" value="Etapes du processus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-4" value="Connaissance du candidat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6" y="110" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="kF871Q7qPDANlRMQNu3J-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="310" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;fillColor=#CCE5FF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-11" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;fillColor=#6666FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-12" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-13" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kF871Q7qPDANlRMQNu3J-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="kF871Q7qPDANlRMQNu3J-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="310" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

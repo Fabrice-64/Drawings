@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram name="Page-1" id="Y-cD72wbh6zRBrMIaW-u">
     <mxGraphModel dx="855" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,35 @@
             <Array as="points">
               <mxPoint x="370" y="420" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fvgQSQwCOgssKc4nAwdG" name="Méthode TAM">
+    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LviNYmjZJXSWry679lix-2" value="Facilité d&#39;usage" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LviNYmjZJXSWry679lix-3" value="Utilité perçue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LviNYmjZJXSWry679lix-4" value="Acceptation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LviNYmjZJXSWry679lix-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="LviNYmjZJXSWry679lix-2" target="LviNYmjZJXSWry679lix-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LviNYmjZJXSWry679lix-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#000000;" edge="1" parent="1" source="LviNYmjZJXSWry679lix-3" target="LviNYmjZJXSWry679lix-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
   <diagram name="Page-1" id="Y-cD72wbh6zRBrMIaW-u">
     <mxGraphModel dx="855" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-1" target="yKF3XktMPzFvn-oHKtBL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-1" target="yKF3XktMPzFvn-oHKtBL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-1" value="Critères du développement de la confiance&lt;div&gt;&lt;span style=&quot;text-align: justify; text-indent: -18pt; background-color: initial;&quot;&gt;(Potočnik et al. 2021)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-3" target="yKF3XktMPzFvn-oHKtBL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-3" target="yKF3XktMPzFvn-oHKtBL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-3" target="yKF3XktMPzFvn-oHKtBL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-3" value="Algorithmes de tri et de sélection&lt;div&gt;(Perelmuter 2020)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-5" target="yKF3XktMPzFvn-oHKtBL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-5" target="yKF3XktMPzFvn-oHKtBL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-5" target="yKF3XktMPzFvn-oHKtBL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-5" value="Ethique du recruteur&lt;div&gt;(Hunkenschroer et Luetge 2022)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-7" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Traitement des données&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;text-indent: -18pt; background-color: initial;&quot;&gt;(Bertail et al. 2019)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-13" value="Garantie dans la qualité des résultats&lt;div&gt;(Mathot 2022)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yKF3XktMPzFvn-oHKtBL-3" target="yKF3XktMPzFvn-oHKtBL-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yKF3XktMPzFvn-oHKtBL-10" value="Equité dans le traitement des candidats&lt;br&gt;(Rieskamp et al. 2023)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="130" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

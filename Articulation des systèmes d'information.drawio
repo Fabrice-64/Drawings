@@ -1974,7 +1974,7 @@
           <mxGeometry x="220" y="65" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HJ063lmubxhV_8_Dsk0K-171" value="&lt;font style=&quot;color: rgb(0, 0, 0); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 14px;&quot;&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="HJ063lmubxhV_8_Dsk0K-1">
-          <mxGeometry x="210" y="-5" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="-5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HJ063lmubxhV_8_Dsk0K-184" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="HJ063lmubxhV_8_Dsk0K-1">
           <mxGeometry x="-20" y="75" width="30" height="30" as="geometry" />

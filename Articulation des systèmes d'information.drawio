@@ -313,7 +313,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-11" value="&lt;b&gt;Sous-traitant Rang 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-10">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-12" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-10">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-12" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-10">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-10">
@@ -400,7 +400,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-30" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-29">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-31" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-29">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-31" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-29">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-29">
@@ -442,7 +442,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-39" value="&lt;b&gt;Sous-traitant&amp;nbsp; Rang 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-38">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-40" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-38">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-40" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#fa6800;strokeColor=#C73500;fillStyle=hatch;fontColor=#000000;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-38">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-38">
@@ -484,7 +484,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-48" value="&lt;b&gt;Sous-traitant Rang 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-47">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-49" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-47">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-49" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-47">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-47">
@@ -526,7 +526,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-57" value="&lt;b&gt;Sous-traitant&amp;nbsp; Rang 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-56">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-58" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-56">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-58" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Cadre Juridique&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#a0522d;strokeColor=#6D1F00;fillStyle=hatch;fontColor=#ffffff;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-56">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-56">
@@ -568,7 +568,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-66" value="&lt;b&gt;Sous-traitant Rang 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-65">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-67" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-65">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-67" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-65">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-65">
@@ -652,7 +652,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-84" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-83">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-85" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-83">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-85" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-83">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-83">
@@ -694,7 +694,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-93" value="&lt;b&gt;Sous-traitant&amp;nbsp; Rang 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-92">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-94" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-92">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-94" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Cadre Juridique&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#a20025;strokeColor=#6F0000;fillStyle=hatch;fontColor=#ffffff;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-92">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-95" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-92">
@@ -736,7 +736,7 @@
         <mxCell id="R6vVabXK3M3jd5SGQimi-102" value="&lt;b&gt;Sous-traitant Rang 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-101">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6vVabXK3M3jd5SGQimi-103" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-101">
+        <mxCell id="R6vVabXK3M3jd5SGQimi-103" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#d80073;strokeColor=#A50040;fillStyle=hatch;fontColor=#ffffff;" vertex="1" parent="R6vVabXK3M3jd5SGQimi-101">
           <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="R6vVabXK3M3jd5SGQimi-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="R6vVabXK3M3jd5SGQimi-101">
@@ -825,9 +825,6 @@
         <mxCell id="83Tkry6P--aWCDjuDZ2w-20" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-19">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="83Tkry6P--aWCDjuDZ2w-21" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-19">
-          <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
-        </mxCell>
         <mxCell id="83Tkry6P--aWCDjuDZ2w-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="83Tkry6P--aWCDjuDZ2w-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8.680555555555557" y="31.818181818181813" as="sourcePoint" />
@@ -870,9 +867,6 @@
         <mxCell id="83Tkry6P--aWCDjuDZ2w-30" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-29">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="83Tkry6P--aWCDjuDZ2w-31" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-29">
-          <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
-        </mxCell>
         <mxCell id="83Tkry6P--aWCDjuDZ2w-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="83Tkry6P--aWCDjuDZ2w-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8.680555555555557" y="31.818181818181813" as="sourcePoint" />
@@ -912,9 +906,6 @@
         <mxCell id="83Tkry6P--aWCDjuDZ2w-75" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-74">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="83Tkry6P--aWCDjuDZ2w-76" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-74">
-          <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
-        </mxCell>
         <mxCell id="83Tkry6P--aWCDjuDZ2w-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="83Tkry6P--aWCDjuDZ2w-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8.680555555555557" y="31.818181818181813" as="sourcePoint" />
@@ -953,9 +944,6 @@
         </mxCell>
         <mxCell id="83Tkry6P--aWCDjuDZ2w-84" value="&lt;b&gt;Sous-traitant Rang 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-83">
           <mxGeometry width="250.00000000000006" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="83Tkry6P--aWCDjuDZ2w-85" value="Cadre Juridique" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="83Tkry6P--aWCDjuDZ2w-83">
-          <mxGeometry x="3.4722222222222228" y="19.09090909090909" width="243.05555555555563" height="95.45454545454545" as="geometry" />
         </mxCell>
         <mxCell id="83Tkry6P--aWCDjuDZ2w-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=20;endSize=4.31;" edge="1" parent="83Tkry6P--aWCDjuDZ2w-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

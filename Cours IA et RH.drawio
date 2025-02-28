@@ -34,13 +34,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-47" value="29 Avril&lt;br&gt;Séance #1&lt;br&gt;3h" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-41">
-          <mxGeometry x="580" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="550" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-49" target="QrdZ3zOz95iLeTfScC8g-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-49" value="30 avril&lt;br&gt;Séance #2&lt;br&gt;3h30" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-41">
-          <mxGeometry x="750" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="700" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-51" target="QrdZ3zOz95iLeTfScC8g-53">
           <mxGeometry relative="1" as="geometry" />
@@ -70,6 +70,40 @@
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-65" value="Objectifs pédagogiques" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="1180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-67" value="A la fin de cette séance, les étudiants ont une compréhension globale des enjeux de l&#39;IA et de ses différentes composantes" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="240" y="80" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-69" value="A la fin de cette séance, les étudiants savent identifier les outils d&#39;IA applicables dans les différents aspects de la fonction RH ainsi que leurs limites techniques et juridiques." style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="460" y="80" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-71" value="A la fin de cette séance, les étudiants ont assimilé les interactions sociales autour de l&#39;usage de l&#39;IA dans les RH ainsi que les enjeux de son acceptation.&amp;nbsp;&lt;br&gt;Ils savent orienter les achats de prestation et outils utilisant l&#39;IA" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="710" y="80" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-47" target="QrdZ3zOz95iLeTfScC8g-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="330" />
+              <mxPoint x="375" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-49" target="QrdZ3zOz95iLeTfScC8g-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="805" y="370" />
+              <mxPoint x="595" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-51" target="QrdZ3zOz95iLeTfScC8g-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="340" />
+              <mxPoint x="860" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

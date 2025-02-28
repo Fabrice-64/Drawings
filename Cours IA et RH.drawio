@@ -68,6 +68,9 @@
         <mxCell id="QrdZ3zOz95iLeTfScC8g-58" value="Imad" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="60" width="20" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-65" value="Objectifs pédagogiques" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="1180" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

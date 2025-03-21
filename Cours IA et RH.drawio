@@ -80,10 +80,10 @@
         <mxCell id="QrdZ3zOz95iLeTfScC8g-71" value="A la fin de cette séance, les étudiants ont assimilé les interactions sociales autour de l&#39;usage de l&#39;IA dans les RH ainsi que les enjeux de son acceptation.&amp;nbsp;&lt;br&gt;Ils savent orienter les achats de prestation et outils utilisant l&#39;IA" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
           <mxGeometry x="895" y="30" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-77" value="A la fin du module, les étudiants ont identifié l&#39;importance des SI et les enjeux de l&#39;usage de l&#39;IA au sein de la fonction RH, tout en conservant la distance critique relativement à leur efficacité, à leur utilité réelle dans le respect des règles déontologiques et du cadre législatif" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
-          <mxGeometry x="1160" y="25" width="230" height="120" as="geometry" />
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-77" value="A la fin du module, les étudiants ont identifié l&#39;importance des SI et les enjeux de l&#39;usage de l&#39;IA au sein de la fonction RH, tout en conservant la distance critique relativement à leur efficacité, à leur utilité réelle dans le respect des règles déontologiques et du cadre législatif.&lt;br&gt;&lt;br&gt;Les étudiants sont en mesure de devenir force de proposition pour le déploiement de solutions d&#39;IA au sein de leur organisation" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="1160" y="12.5" width="230" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-73" value="Travaux complémentaires" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-73" value="Méthode Pédagogique" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="510" width="1410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-49" target="QrdZ3zOz95iLeTfScC8g-69">

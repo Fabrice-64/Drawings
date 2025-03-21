@@ -71,13 +71,13 @@
         <mxCell id="QrdZ3zOz95iLeTfScC8g-65" value="Objectifs pédagogiques" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="1410" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-67" value="A la fin de cette séance, les étudiants ont une compréhension globale des enjeux de l&#39;IA et de ses différentes composantes" style="html=1;whiteSpace=wrap;movableLabel=0;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
-          <mxGeometry x="420" y="40" width="170" height="90" as="geometry" />
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-67" value="A la fin de cette séance, les étudiants ont une compréhension globale des enjeux de l&#39;IA et de ses différentes composantes, notamment les enjeux géopolitiques et culturels" style="html=1;whiteSpace=wrap;movableLabel=0;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="420" y="40" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-69" value="A la fin de cette séance, les étudiants savent identifier les outils d&#39;IA applicables dans les différents aspects de la fonction RH ainsi que leurs limites techniques et juridiques." style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
-          <mxGeometry x="665" y="35" width="180" height="100" as="geometry" />
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-69" value="A la fin de cette séance, les étudiants savent identifier les outils d&#39;IA applicables dans les différents aspects de la fonction RH ainsi que leurs limites techniques liées à la gouvernance des SI et à SSI ainsi que le cadre juridique de leur usage." style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+          <mxGeometry x="665" y="35" width="180" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-71" value="A la fin de cette séance, les étudiants ont assimilé les interactions sociales autour de l&#39;usage de l&#39;IA dans les RH ainsi que les enjeux de son acceptation.&amp;nbsp;&lt;br&gt;Ils savent orienter les achats de prestation et outils utilisant l&#39;IA" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-71" value="A la fin de cette séance, les étudiants ont assimilé les interactions sociales autour de l&#39;usage de l&#39;IA dans les RH ainsi que les enjeux de son acceptation, notamment sur le plan éthique.&amp;nbsp;&lt;br&gt;Ils savent orienter les achats de prestation et outils utilisant l&#39;IA." style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
           <mxGeometry x="895" y="30" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-77" value="A la fin du module, les étudiants ont identifié l&#39;importance des SI et les enjeux de l&#39;usage de l&#39;IA au sein de la fonction RH, tout en conservant la distance critique relativement à leur efficacité, à leur utilité réelle dans le respect des règles déontologiques et du cadre législatif.&lt;br&gt;&lt;br&gt;Les étudiants sont en mesure de devenir force de proposition pour le déploiement de solutions d&#39;IA au sein de leur organisation" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">

@@ -15,26 +15,26 @@
             <mxPoint x="120" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-44" target="QrdZ3zOz95iLeTfScC8g-45">
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-44" target="QrdZ3zOz95iLeTfScC8g-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QrdZ3zOz95iLeTfScC8g-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-44" target="QrdZ3zOz95iLeTfScC8g-55">
+        <mxCell id="QrdZ3zOz95iLeTfScC8g-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-44" target="QrdZ3zOz95iLeTfScC8g-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-44" value="Mi-Avril&lt;br&gt;Vérification avec IDIP" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-41">
-          <mxGeometry x="250" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="180" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-45" target="QrdZ3zOz95iLeTfScC8g-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-45" value="Adaptation du cours" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-41">
-          <mxGeometry x="390" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="260" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-47" target="QrdZ3zOz95iLeTfScC8g-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-47" value="29 Avril&lt;br&gt;Séance #1&lt;br&gt;3h" style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-41">
-          <mxGeometry x="520" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="450" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-41" source="QrdZ3zOz95iLeTfScC8g-49" target="QrdZ3zOz95iLeTfScC8g-51">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="50" y="310" width="1410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-67" value="A la fin de cette séance, les étudiants ont une compréhension globale des enjeux de l&#39;IA et de ses différentes composantes" style="html=1;whiteSpace=wrap;movableLabel=0;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
-          <mxGeometry x="490" y="40" width="170" height="90" as="geometry" />
+          <mxGeometry x="420" y="40" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-69" value="A la fin de cette séance, les étudiants savent identifier les outils d&#39;IA applicables dans les différents aspects de la fonction RH ainsi que leurs limites techniques et juridiques." style="html=1;whiteSpace=wrap;" vertex="1" parent="QrdZ3zOz95iLeTfScC8g-65">
           <mxGeometry x="665" y="35" width="180" height="100" as="geometry" />

@@ -175,13 +175,25 @@
           <mxGeometry x="310" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WsyJlwMs0WdYC1oRQNKE-8" value="Droit Européen de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="550" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WsyJlwMs0WdYC1oRQNKE-9" value="IA et discriminations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WsyJlwMs0WdYC1oRQNKE-10" value="Modèles d&#39;IA et usages" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fOwTxjV2Zl5LCE9sfM2B-1" value="Enjeux culturels de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oCCYBuR0YGCnhvVHf7BB-1" value="Enjeux éthiques de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oCCYBuR0YGCnhvVHf7BB-2" value="Relation des salariés à l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oCCYBuR0YGCnhvVHf7BB-3" value="Participation à un projet SIRH incluant l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="20" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

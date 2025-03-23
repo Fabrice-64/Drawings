@@ -250,6 +250,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VSC4f9elpS8HbfVjgWTR-1" value="Séance #1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="1580" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VSC4f9elpS8HbfVjgWTR-2" value="Séance #2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="1580" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VSC4f9elpS8HbfVjgWTR-3" value="Séance #3" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="1580" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

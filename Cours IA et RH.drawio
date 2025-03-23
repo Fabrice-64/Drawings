@@ -171,6 +171,18 @@
         <mxCell id="WsyJlwMs0WdYC1oRQNKE-6" value="Difficile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WsyJlwMs0WdYC1oRQNKE-7" value="Géopolitique de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsyJlwMs0WdYC1oRQNKE-8" value="Droit Européen de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsyJlwMs0WdYC1oRQNKE-9" value="IA et discriminations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsyJlwMs0WdYC1oRQNKE-10" value="Modèles d&#39;IA et usages" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

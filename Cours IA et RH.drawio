@@ -81,7 +81,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-65" value="Objectifs pédagogiques" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="310" width="1400" height="200" as="geometry" />
+          <mxGeometry x="50" y="310" width="1410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="80V4BZku-PfU1ywcQUxI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QrdZ3zOz95iLeTfScC8g-65" source="QrdZ3zOz95iLeTfScC8g-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QrdZ3zOz95iLeTfScC8g-67" value="A la fin de cette séance, les étudiants ont une compréhension globale des enjeux de l&#39;IA et de ses différentes composantes, notamment les enjeux géopolitiques et culturels" style="html=1;whiteSpace=wrap;movableLabel=0;" parent="QrdZ3zOz95iLeTfScC8g-65" vertex="1">
           <mxGeometry x="420" y="40" width="170" height="100" as="geometry" />
@@ -154,6 +159,9 @@
         </mxCell>
         <mxCell id="80V4BZku-PfU1ywcQUxI-2" value="Exercice de groupe : Traitement des discriminations par l&#39;IA" style="whiteSpace=wrap;html=1;" vertex="1" parent="Dlzo6lsR4_II9Ef_QFj0-3">
           <mxGeometry x="869" y="113.88999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80V4BZku-PfU1ywcQUxI-12" value="Travail collectif : création d&#39;un schéma heuristique des enjeux de l&#39;IA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Dlzo6lsR4_II9Ef_QFj0-3">
+          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D2elu69DOSVnmj1eIMhS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-69" target="D2elu69DOSVnmj1eIMhS-5">
           <mxGeometry relative="1" as="geometry" />

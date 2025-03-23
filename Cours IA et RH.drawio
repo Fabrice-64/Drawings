@@ -110,6 +110,9 @@
         <mxCell id="D2elu69DOSVnmj1eIMhS-3" value="Identifier entreprise réelle proposant des prestations RH+IA : site web, offre, profils LinkedIn" style="whiteSpace=wrap;html=1;" vertex="1" parent="Dlzo6lsR4_II9Ef_QFj0-21">
           <mxGeometry x="927.5" y="65.5" width="135" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="D2elu69DOSVnmj1eIMhS-11" value="Modèle Wooclap pour le brainstorming" style="whiteSpace=wrap;html=1;" vertex="1" parent="Dlzo6lsR4_II9Ef_QFj0-21">
+          <mxGeometry x="770" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="D2elu69DOSVnmj1eIMhS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-71" target="D2elu69DOSVnmj1eIMhS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -153,6 +156,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2elu69DOSVnmj1eIMhS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrdZ3zOz95iLeTfScC8g-69" target="Dlzo6lsR4_II9Ef_QFj0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2elu69DOSVnmj1eIMhS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2elu69DOSVnmj1eIMhS-5" target="D2elu69DOSVnmj1eIMhS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

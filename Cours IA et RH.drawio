@@ -242,6 +242,12 @@
         <mxCell id="ZZm9xO-U2LW48EizBdzI-1" value="Sécurité des SIRH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="br147w0WG3TXQ6OB15cn-1" value="Les courants de pensée autour de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="br147w0WG3TXQ6OB15cn-2" value="L&#39;IA et l&#39;information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

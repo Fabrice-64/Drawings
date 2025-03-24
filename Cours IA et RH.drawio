@@ -245,7 +245,7 @@
         <mxCell id="oCCYBuR0YGCnhvVHf7BB-2" value="Relation des salariés à l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCCYBuR0YGCnhvVHf7BB-3" value="Participation à un projet SIRH incluant l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oCCYBuR0YGCnhvVHf7BB-3" value="RH et achats de prestations d&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZZm9xO-U2LW48EizBdzI-1" value="Sécurité des SIRH" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -326,7 +326,7 @@
           <mxGeometry x="150" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xoE3vrw5LlZGGLRbDx1Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
-          <mxGeometry x="880" width="280" height="20" as="geometry" />
+          <mxGeometry x="880" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ex5woaijwE-Uq254q2ti-4" value="Wooclap : relation à l&#39;IA &amp;amp; connaissances sur l&#39;IA" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
           <mxGeometry x="23" y="70" width="120" height="60" as="geometry" />
@@ -353,19 +353,25 @@
           <mxGeometry x="610" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="itn6CyfmRPNKeBNsL9Yq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
-          <mxGeometry x="750" width="130" height="20" as="geometry" />
+          <mxGeometry x="740" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RDQJGjNaAuEsFSYis1OF-1" value="IA et Société" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
-          <mxGeometry x="755" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RDQJGjNaAuEsFSYis1OF-3" value="Création collective&amp;nbsp; d&#39;un schéma heuristique autour des thèmes de la journée" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
-          <mxGeometry x="950" y="60" width="140" height="70" as="geometry" />
+          <mxGeometry x="880" y="60" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Fjq4Y2iO8J5YWImUhbBd-2" value="Préparation du débat contradictoire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
+        <mxCell id="Fjq4Y2iO8J5YWImUhbBd-2" value="Préparation du débat contradictoire sur la base du schéma heuristique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
           <mxGeometry x="1390" y="60" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fjq4Y2iO8J5YWImUhbBd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
           <mxGeometry x="1390" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="283luWdLkWpCS6jsRzZ2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
+          <mxGeometry x="1100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="283luWdLkWpCS6jsRzZ2-2" value="Consignes pour le CC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-1">
+          <mxGeometry x="1100" y="55" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VSC4f9elpS8HbfVjgWTR-2" value="Séance #2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="1580" height="200" as="geometry" />
@@ -385,7 +391,7 @@
         <mxCell id="ik2T1qNT4TWuBpr-jFG0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-2">
           <mxGeometry x="1190" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ovFxHrTV7te-P7b8qViZ-1" value="Sécurité des SIRH&lt;br&gt;0 trust data centric" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-2">
+        <mxCell id="ovFxHrTV7te-P7b8qViZ-1" value="Sécurité des SIRH&lt;br&gt;0 trust data centric &amp;amp; data product" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-2">
           <mxGeometry x="1195" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="giEDQffIVDw4xMyr5pF5-1" value="Droit Européen de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-2">
@@ -426,6 +432,36 @@
         </mxCell>
         <mxCell id="kfSLaZhVMwb89-soMeus-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
           <mxGeometry x="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KDLxINHzeJCce7xTadWS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="340" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KDLxINHzeJCce7xTadWS-2" value="Traitement d&#39;une candidature avec des paramètres discriminatoires avec l&#39;aide d&#39;une IA générative (trois groupes - trois traitements différents, puis comparaison)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="340" y="50" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFIzb62Y_zbaMKrWdtEu-1" value="RH et achats de prestations d&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="630" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SFIzb62Y_zbaMKrWdtEu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="610" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFIzb62Y_zbaMKrWdtEu-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="830" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFIzb62Y_zbaMKrWdtEu-4" value="Contrôle Continu N°2:&lt;div&gt;Analyse critique d&#39;une prestation d&#39;IA&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="830" y="50" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFIzb62Y_zbaMKrWdtEu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="1170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qMc0m7yvmQ1xbwm1K4Io-1" value="Le RH dans la transfo des organisations vers l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="1160" y="40" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMc0m7yvmQ1xbwm1K4Io-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="1270" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qMc0m7yvmQ1xbwm1K4Io-3" value="Conclusion du cours" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VSC4f9elpS8HbfVjgWTR-3">
+          <mxGeometry x="1260" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BhNkMGX5gWeB6zct5TRC-2" value="H+45mn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="85" width="60" height="30" as="geometry" />

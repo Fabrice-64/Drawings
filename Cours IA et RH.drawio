@@ -230,7 +230,7 @@
         <mxCell id="fOwTxjV2Zl5LCE9sfM2B-1" value="Enjeux culturels de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCCYBuR0YGCnhvVHf7BB-1" value="Enjeux éthiques de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCCYBuR0YGCnhvVHf7BB-1" value="Enjeux éthiques de l&#39;IA: énergie, vie privée et profits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oCCYBuR0YGCnhvVHf7BB-2" value="Relation des salariés à l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="br147w0WG3TXQ6OB15cn-2" value="L&#39;IA et l&#39;information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="br147w0WG3TXQ6OB15cn-3" value="La neutralité de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

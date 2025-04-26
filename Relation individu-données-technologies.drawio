@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVVGBSWZRVMv5-ygpTuM-18" value="Décide de l&#39;importance&lt;br style=&quot;font-size: 11px;&quot;&gt;des données" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="CVVGBSWZRVMv5-ygpTuM-6" vertex="1" connectable="0">
+        <mxCell id="CVVGBSWZRVMv5-ygpTuM-18" value="Décide de l&#39;importance&lt;br style=&quot;font-size: 11px;&quot;&gt;et sensibilité des données" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="CVVGBSWZRVMv5-ygpTuM-6" vertex="1" connectable="0">
           <mxGeometry x="-0.4845" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>

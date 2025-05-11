@@ -235,7 +235,7 @@
             <mxPoint x="520" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PXRKCNcGwExf0ayW6gbN-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Position indécise&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=light-dark(#e7e6e4, #ededed);" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">
+        <mxCell id="PXRKCNcGwExf0ayW6gbN-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Faible confiance &lt;br&gt;dans le recruteur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=light-dark(#FF9933,#EDEDED);" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">
           <mxGeometry x="140" y="250" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXRKCNcGwExf0ayW6gbN-1" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;Réticence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ff9500, #ff9090);strokeColor=#b85450;" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">

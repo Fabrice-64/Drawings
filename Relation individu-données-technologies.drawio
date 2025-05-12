@@ -250,9 +250,6 @@
         <mxCell id="9QP8hiQxbULPUPHG2BBP-0" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Légende&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="n374Qjzwg9ruulEYuec7-1">
           <mxGeometry x="120" y="560" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9QP8hiQxbULPUPHG2BBP-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n374Qjzwg9ruulEYuec7-1">
-          <mxGeometry x="410" y="410" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9QP8hiQxbULPUPHG2BBP-5" value="" style="group" vertex="1" connectable="0" parent="n374Qjzwg9ruulEYuec7-1">
           <mxGeometry x="130" y="600" width="160" height="30" as="geometry" />
         </mxCell>

@@ -238,7 +238,7 @@
         <mxCell id="PXRKCNcGwExf0ayW6gbN-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Faible confiance &lt;br&gt;dans le recruteur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=light-dark(#FF9933,#EDEDED);" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">
           <mxGeometry x="140" y="250" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXRKCNcGwExf0ayW6gbN-1" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;Réticence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ff9500, #ff9090);strokeColor=#b85450;" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">
+        <mxCell id="PXRKCNcGwExf0ayW6gbN-1" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;Réticence à l&#39;usage de l&#39;IA par le recruteur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ff9500, #ff9090);strokeColor=#b85450;" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">
           <mxGeometry x="370" y="490" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXRKCNcGwExf0ayW6gbN-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Utilité reconnue&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=light-dark(#CCFF99,#EDEDED);" parent="n374Qjzwg9ruulEYuec7-1" vertex="1">

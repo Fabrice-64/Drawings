@@ -290,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="twJLlk0QJkrdTvE2w6IZ" name="Carte des apprentissages">
-    <mxGraphModel dx="934" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,53 +318,143 @@
         <mxCell id="WsyJlwMs0WdYC1oRQNKE-6" value="Difficile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WsyJlwMs0WdYC1oRQNKE-7" value="Géopolitique de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-1" value="Concentration des efforts (Foch)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WsyJlwMs0WdYC1oRQNKE-8" value="Droit Européen de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-2" value="Economie des Moyens (Foch)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WsyJlwMs0WdYC1oRQNKE-9" value="IA et discriminations" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-3" value="Liberté d&#39;action (Foch)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WsyJlwMs0WdYC1oRQNKE-10" value="Modèles d&#39;IA et usages" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="30" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-4" value="Incertitude (Clausewitz)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fOwTxjV2Zl5LCE9sfM2B-1" value="Enjeux culturels de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="370" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-5" value="Triade&amp;nbsp;&lt;div&gt;peuple - armée - gouvernement (Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCCYBuR0YGCnhvVHf7BB-1" value="Enjeux éthiques de l&#39;IA: énergie, vie privée et profits" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-6" value="&lt;div&gt;La guerre est un caméléon (Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCCYBuR0YGCnhvVHf7BB-2" value="Relation des salariés à l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-7" value="&lt;div&gt;Le coup d&#39;oeil (Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCCYBuR0YGCnhvVHf7BB-3" value="RH et achats de prestations d&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-8" value="&lt;div&gt;Ascension aux extrêmes (Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZZm9xO-U2LW48EizBdzI-1" value="Sécurité des SIRH" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-9" value="&lt;div&gt;Guerre: continuation de la politique (Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="br147w0WG3TXQ6OB15cn-1" value="Les courants de pensée autour de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="310" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-10" value="&lt;div&gt;Initiative&lt;/div&gt;&lt;div&gt;&amp;nbsp;(Clausewitz)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="br147w0WG3TXQ6OB15cn-2" value="IA Génératives et RH" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="220" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-11" value="Approche indirecte (Sun Tzu)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="br147w0WG3TXQ6OB15cn-4" value="Le rôle du RH dans la transfo des organisations vers l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="450" width="140" height="90" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-12" value="Force en dernier recours&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U-MgIcJdF5BVoel5TeRV-1" value="L&#39;Histoire de l&#39;IA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="450" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-13" value="Recherche d&#39;alliances&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GVDAYC3k6937UOMPU8jz-1" value="IA et Société" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="370" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-14" value="Adaptation au réalités humaines&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ImTMLTFK4JP9keupy2iq-1" value="Potentiel et limites de l&#39;IA en RH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-15" value="Adaptation au terrain&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="545" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y1t3jTapdFCyejdanZII-1" value="Le fonctionnement des IA génératives" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-16" value="Ruse&lt;br&gt;&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-17" value="Créer les conditions de la victoire&lt;br&gt;&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-18" value="Doctrine&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-19" value="Mobilité&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-20" value="S&#39;adapter à l&#39;adversaire&lt;br&gt;&lt;div&gt;&amp;nbsp;(Sun Tzu)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stratégie&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Planification&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-23" value="Etat final recherché" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-24" value="Lignes d&#39;opération" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-25" value="Effet majeur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-26" value="Espace et temps" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-27" value="Points de décision" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-28" value="Idée de manoeuvre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-29" value="Intention" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-30" value="Modes d&#39;action AMI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-31" value="Modes d&#39;action ENI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-32" value="Request for Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-33" value="Proxies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-34" value="Opérations cognitives" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-35" value="Centralisation vs Décentralisation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-36" value="Plan d&#39;opération" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-37" value="Plan de manoeuvre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tactique&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-39" value="Centre des Opérations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-40" value="Battle Rhythm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-41" value="Point de situation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-42" value="Point de décision" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-43" value="Appréciation de la situation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-44" value="Boucle de Boyd" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-45" value="Oporder - Wingo - Frago" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqKTTM2jNiv2y_rLWy1F-46" value="J&#39;s - JEC - JOC - JIC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="830" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
